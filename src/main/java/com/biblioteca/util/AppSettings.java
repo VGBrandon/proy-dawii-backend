@@ -2,7 +2,7 @@ package com.biblioteca.util;
 
 public class AppSettings {
 
-	public static final String URL_CROSS_ORIGIN = "http://localhost:4200";
+	public static final String URL_CROSS_ORIGIN = "*";
 	public static final int CATALOGO_01_CATEGORIA_DE_LIBRO = 1;
 	public static final int CATALOGO_02_TIPO_DE_PROVEEDOR = 2;
 	public static final int CATALOGO_03_MODALIDAD_DE_ALUMNO = 3;
